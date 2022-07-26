@@ -15,7 +15,6 @@
     <item android:id="@android:id/progress">
         <clip>
             <shape>
-<!--                进度条颜色-->
                 <solid android:color="@color/color_353744" />
             </shape>
         </clip>
